@@ -20,7 +20,7 @@ Desenvolvedor em transição de carreira, com background em operações de termi
   <img alt="Next.js" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />&nbsp;
   <img alt="Prisma" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" />&nbsp;
   <img alt="PostgreSQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />&nbsp;
-  <img alt="Supabase" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" />&nbsp;
+  <img alt="Cloudflare" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cloudflare/cloudflare-original.svg" />&nbsp;
   <img alt="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />&nbsp;
   <img alt="GitHub" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />&nbsp;
   <img alt="VS Code" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />&nbsp;
@@ -28,6 +28,22 @@ Desenvolvedor em transição de carreira, com background em operações de termi
 </p>
 
 <br />
+
+---
+
+### 🚀 Projetos
+
+**Ferramentas internas · terminal de cargas de VCP** (repositórios privados, de uso interno)
+
+- **MOCAR VCP** · sistema de controle e programação de ULDs que substituiu a planilha MOCAR e a montagem manual do pré-alerta. Reduziu em 30 min o fechamento de cada voo no sistema, cerca de 39 h por mês.
+- **Backlog de Piso** · painel que lê o relatório da Azul direto no navegador e mostra o que está no piso e há quantos dias. Zerou pendências de até 5 meses e levou o backlog médio para 4 dias.
+- **ROTA VCP** · dashboard que transforma o relatório de AWBs por peça no relatório de saídas do dia, com top origens e peso despachado por turno.
+- [**Apresentação das ferramentas**](https://apresentacao-melhorias.vercel.app) · página que mostra como cada ferramenta funciona na operação.
+
+**Projetos pessoais**
+
+- [**MaBills**](https://github.com/caiom-dev/mabills) · app de controle de gastos (PWA para iPhone) com orçamento por categoria, indicador de ritmo de gasto e categorização automática do extrato. TypeScript, Cloudflare Workers e D1.
+- [**BMD CRM**](https://github.com/caiom-dev/BMD---CRM) · CRM multi-tenant com Next.js 14, tRPC e Prisma, com MFA, audit log e rate limiting.
 
 ---
 
